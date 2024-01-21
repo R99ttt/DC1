@@ -1,5 +1,3 @@
-**Readme File for StringEncoderDecoder Compression Algorithm**
-
 ### Introduction
 This Java code implements a basic data compression algorithm using a simple string encoding and decoding technique. The algorithm involves creating a mapping of substrings to their frequencies, sorting them based on their occurrences, and then assigning unique codes to the most common substrings. The code includes both a single-string encoder/decoder (`StringEncoderDecoder`) and a multi-string encoder/decoder (`StringEncoderDecoder2`) that works on multiple lines of input.
 
